@@ -1,0 +1,11 @@
+user_id,skills,experience_level,preferred_location,preferred_job_type
+1,python machine learning,Student,Bangalore,Internship
+2,sql excel data analysis,Student,Bangalore,Internship
+3,python flask fastapi,Fresher,Hyderabad,Full-time
+4,java spring boot,Fresher,Hyderabad,Full-time
+5,python machine learning deep learning,Experienced,Remote,Full-time
+6,docker kubernetes aws,Experienced,Remote,Full-time
+7,html css javascript react,Student,Bangalore,Internship
+8,sql excel powerbi,Fresher,Mumbai,Full-time
+9,linux networking,Experienced,Hyderabad,Full-time
+10,python research machine learning,Student,Remote,Internship
