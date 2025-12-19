@@ -1,0 +1,21 @@
+job_id,title,description,required_skills,location,job_type,experience_level
+101,ML Intern,work on machine learning models and datasets,python machine learning pandas,Bangalore,Internship,Student
+102,Data Analyst Intern,analyze datasets and create dashboards,sql excel python,Bangalore,Internship,Student
+103,Python Developer Intern,assist in backend python development,python flask,Bangalore,Internship,Student
+104,AI Research Intern,research deep learning models,python deep learning pytorch,Remote,Internship,Student
+105,Frontend Intern,build UI components,html css javascript react,Bangalore,Internship,Student
+106,Junior Data Scientist,build ML models for business problems,python machine learning sql,Hyderabad,Full-time,Fresher
+107,Software Engineer,develop backend services,java spring boot,Hyderabad,Full-time,Fresher
+108,Data Analyst,analyze business data,sql excel powerbi,Mumbai,Full-time,Fresher
+109,ML Engineer,deploy ML models,python machine learning fastapi,Remote,Full-time,Experienced
+110,Backend Engineer,build scalable APIs,python fastapi docker,Remote,Full-time,Experienced
+111,DevOps Engineer,manage CI/CD pipelines,docker kubernetes aws,Remote,Full-time,Experienced
+112,Cloud Engineer,design cloud infrastructure,aws terraform linux,Bangalore,Full-time,Experienced
+113,Data Engineer,build data pipelines,python spark sql,Bangalore,Full-time,Experienced
+114,QA Intern,test software applications,manual testing automation,Bangalore,Internship,Student
+115,Mobile App Intern,develop android apps,java android,Bangalore,Internship,Student
+116,Web Developer,build web applications,html css javascript,Mumbai,Full-time,Fresher
+117,AI Engineer,work on AI systems,python deep learning tensorflow,Remote,Full-time,Experienced
+118,Product Analyst,analyze product metrics,sql excel statistics,Bangalore,Full-time,Fresher
+119,System Engineer,manage system operations,linux networking,Hyderabad,Full-time,Experienced
+120,Research Assistant,assist AI research work,python machine learning research,Remote,Internship,Student

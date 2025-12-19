@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-jobs=pd.read_csv("C:/Users/udayi/Downloads/jobs.csv")
-users=pd.read_csv("C:/Users/udayi/Downloads/users.csv")
+jobs=pd.read_csv("Data/jobs.csv")
+users=pd.read_csv("Data/users.csv")
 jobs["text"]=jobs["title"]+" "+jobs["description"]+" "+jobs["required_skills"]
 
 from sklearn.feature_extraction.text import TfidfVectorizer
