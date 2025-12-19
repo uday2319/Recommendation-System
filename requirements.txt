@@ -1,6 +1,8 @@
 pytest
-FASTAPI
+fastapi
 uvicorn
 pandas
 numpy
 scikit-learn
+requests
+streamlit
