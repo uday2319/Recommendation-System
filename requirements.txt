@@ -1,0 +1,6 @@
+pytest
+FASTAPI
+uvicorn
+pandas
+numpy
+scikit-learn
