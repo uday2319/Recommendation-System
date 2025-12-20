@@ -24,7 +24,7 @@ if st.button("Get Recommendations"):
             params={"top_k": top_k}
         )
 
-    if response.status_code == 200:
+    if response.status_code ==  200:
         data = response.json()
 
         if "recommendations" in data:
