@@ -2,8 +2,8 @@ pytest
 httpx
 fastapi
 uvicorn
-pandas
 numpy
 scikit-learn
 requests
 streamlit
+pandas
