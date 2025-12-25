@@ -3,7 +3,8 @@ httpx
 fastapi
 uvicorn
 numpy
+pandas
 scikit-learn
 requests
 streamlit
-pandas
+
