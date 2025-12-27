@@ -13,8 +13,11 @@ User skill data and job descriptions are transformed into numerical representati
 
 **The project focuses on**
 1.Practical ML application
+
 2.API-first design
+
 3.CI/CD automation
+
 4.Production-ready structure
 
 **MVP (Minimum Viable Product)****
