@@ -1,6 +1,7 @@
 **JOB RECOMMENDATION SYSTEM**
 
 **Overview**
+
 The Job Recommendation System (content and context based filtering) is an end-to-end machine learning application that recommends relevant job opportunities to users based on their skills and preferences.
 The system is designed with clean architecture, scalable APIs, CI/CD automation, and deployability in mind, making it suitable for real-world production use.
 
