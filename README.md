@@ -14,6 +14,7 @@ This system addresses that problem by using content-based filtering to intellige
 User skill data and job descriptions are transformed into numerical representations using TF-IDF, and similarity is computed using cosine similarity to recommend the most relevant jobs.
 
 **The project focuses on**
+
 1.Practical ML application
 
 2.API-first design
